@@ -8,7 +8,16 @@ Reddit: https://reddit.com/r/xapp
 
 Medium: https://xapp.medium.com
 
-Twitter: https://twitter.com/xapp_company
+Twitter: https://twitter.com/xapp_app
+
+Facebook: https://facebook.com/xapp.page
+
+Instagram: https://instagram.com/xapp_app
+
+Telegram:
+- Support: https://t.me/xapp_support
+- Channel: https://t.me/xapp_channel
+- Group: https://t.me/xapp_group
 
 
 # App Clip and QR Code
