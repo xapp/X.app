@@ -2,7 +2,7 @@
 
 ![X.app](https://user-images.githubusercontent.com/7535389/130846792-54ec343d-41cf-496c-8d5e-64cd24ef5a87.png)
 
-App Store: https://apps.apple.com/us/app/x-app/id1533525753
+App Store: https://apps.apple.com/app/id1533525753
 
 #
 
