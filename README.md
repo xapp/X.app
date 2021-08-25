@@ -4,17 +4,24 @@ App Store: https://apps.apple.com/us/app/x-app/id1533525753
 
 #
 
-Reddit: https://reddit.com/r/xapp
+### Social:
 
-Medium: https://xapp.medium.com
+- Twitter: https://twitter.com/xapp_app
 
-Twitter: https://twitter.com/xapp_app
+- Facebook: https://facebook.com/xapp.page
 
-Facebook: https://facebook.com/xapp.page
+- Instagram: https://instagram.com/xapp_app
 
-Instagram: https://instagram.com/xapp_app
 
-Telegram:
+### Blog:
+- Medium: https://xapp.medium.com
+
+
+### Community:
+- Reddit: https://reddit.com/r/xapp
+
+
+### Telegram:
 - Support: https://t.me/xapp_support
 - Channel: https://t.me/xapp_channel
 - Group: https://t.me/xapp_group
