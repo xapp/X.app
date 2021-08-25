@@ -20,7 +20,7 @@ App Store: https://apps.apple.com/us/app/x-app/id1533525753
 
 
 ### Support:
-- Email: mailto:support@xapp.email
+- Email: support@xapp.email
 - WhatsApp: https://wa.me/message/JLNODFRTMGKUJ1
 - Telegram: https://t.me/xapp_support
 
